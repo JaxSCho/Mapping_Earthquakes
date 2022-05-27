@@ -22,5 +22,8 @@ The following deliverables include:
 
 
 ## Resources
-- Data Sources: Earthquake GeoJSON data, Major earthquake GeoJSON data >4.5 mag for the week, Tectonic Plate geoJSON data
+- Data Sources: 
+    - Earthquake GeoJSON data
+    - Major earthquake GeoJSON data: >4.5 mag for the week
+    - Tectonic Plate geoJSON data
 - Languages: JavaScript, HTML
