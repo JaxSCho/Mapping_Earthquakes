@@ -7,18 +7,18 @@ In the module, we created a earthquake map with two different maps (streets and 
 
 The following deliverables include:
 
-1. Add Tectonic Plate Overlay:
+1. Adding Tectonic Plate Overlay:
     - Add tectonic plate data using d3.json()
     - Add the data using the geoJSON() layer
     - Set the tectonic plate LineString data to stand out on the map
     - Add the tectonic plate data to the overlay object with the earthquake data
 
-2. Add Major Earthquake Data:
+2. Adding Major Earthquake Data Overlay:
     - Add major earthquake data to the map using d3.json()
     - Add color and set the radius of the circle markers based on the magnitude of earthquake
     - Add a popup marker for each earthquake that displays the magnitude and location of the earthquake using the GeoJSON layer, geoJSON()
 
-3. Add an Additional Map -- used Mapbox Dark style
+3. Adding an Additional Map -- used Mapbox Dark style
 
 
 ## Resources
@@ -26,4 +26,5 @@ The following deliverables include:
     - Earthquake GeoJSON data
     - Major earthquake GeoJSON data: >4.5 mag for the week
     - Tectonic Plate geoJSON data
+
 - Languages: JavaScript, HTML
