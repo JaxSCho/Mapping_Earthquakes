@@ -3,3 +3,6 @@ config.js
 
 # Ignore the .DS_Store files
 .DS_Store
+
+# Ignore intermediate challenge js file
+major_eq_starter_logic.js
